@@ -22,7 +22,7 @@ parser.add_argument('image', help='image to be processed')
 args = parser.parse_args()
 
 # codepage_path = sys.argv[1]
-codepage_path = "images/Codepage-437.png"
+codepage_path = "Codepage-437.png"
 print("READING CODEPAGE")
 codepage = Image.open(codepage_path).convert('RGB')
 
