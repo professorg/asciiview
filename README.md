@@ -12,7 +12,8 @@ the shape of the characters.
 
 Use `./asciiview.py --help` for usage information.
 
-## Example
+## Examples
 
 ![Arch background side-by-side](screenshots/screenshot_arch_example.png)
+![Gerbo side-by-side](screenshots/screenshot_gerbo_example.png)
 
